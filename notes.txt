@@ -1,0 +1,4 @@
+Opening the Console on macOS or Linux
+macOS Terminal Command: To see al the output script messages.
+
+/Applications/Blender.app/Contents/MacOS/Blender
