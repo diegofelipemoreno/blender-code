@@ -2,3 +2,11 @@ Opening the Console on macOS or Linux
 macOS Terminal Command: To see al the output script messages.
 
 /Applications/Blender.app/Contents/MacOS/Blender
+
+--------
+
+Python API Reference
+
+https://docs.blender.org/api/3.6/?utm_source=blender-3.6.23
+
+-------
